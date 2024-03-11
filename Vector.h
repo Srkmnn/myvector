@@ -6,6 +6,8 @@
 
 // 22222
 // srkmnn
+// srkmnn sub
+
 using namespace std;
 enum reserve_type
 {
